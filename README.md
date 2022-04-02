@@ -51,10 +51,10 @@ https://www.w3schools.com/colors/colors_names.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 The main challenge I encountered in creating this submission was getting the sound to work on my project. Although I copied and pasted the code from the instructions onto my file, my sound was not working. I read the instructions 3 times step-by-step to ensure I completed every step and I was not missing a piece of code. In doing so, I was able to notice that I accidentally did not paste the end of the method call, which did not allow my sound to play when I pressed the buttons. I once again copied and pasted the code provided, this time making sure I copied all the code. Once I clicked my buttons, the sound was now functioning!
-Another challenge I encountered in creating this submissin was creating the GIFs. My original screen recording of the game was too large. Therefore, I had to create multiple GIFs. I split up the GIFS to be around 20-30 seconds each to try to convert as much of my recording as possible to multiple GIFs. Although all the GIFs I have attached do not contain the full screen recoding of my project, it demonstrates that my project is working correctly.
+Another challenge I encountered in creating this submission was creating the GIFs. My original screen recording of the game was too large. Therefore, I had to create multiple GIFs. I split up the GIFS to be around 20-30 seconds each to try to convert as much of my recording as possible to multiple GIFs. Although all the GIFs I have attached do not contain the full screen recoding of my project, it demonstrates that my project is working correctly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-I am very curious as to how the web development languages differ. I noticed that for this project we utilized index.html, script.js, and style.css. I would love to learn more about the type of things one can create utilizing this. I would also like to know how web development relates to game-development on desktop/PC devices. I would like to know the difference between creating a website and creating a website in which one can play a game in. How does the logic work? What lanugage is responsible for a certain operation in the website/game?
+I am very curious as to how the web development languages differ. I noticed that for this project we utilized index.html, script.js, and style.css. I would love to learn more about the type of things one can create utilizing this. I would also like to know how web development relates to game-development on desktop/PC devices. I would like to know the difference between creating a website and creating a website in which one can play a game in. How does the logic work? What language is responsible for a certain operation in the website/game?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 I would like to have added a feature in which a player could play their favorite song. For example, there can be an option where the player can paste a URL link (ex. using Spotify or Youtube) of a song and the game can generate the instrumental version. The game would be able to recreate the sound of the song by playing the tunes, allowing the player to be able to play the song using the buttons. If I were to be able to implement this feature, I would have to add more buttons to the keyboard in order to be able to play more tunes. Adding more tunes allows for the song to better match the notes of the song.
@@ -64,12 +64,12 @@ Another feature I would implement is allowing for the player to play against som
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/hIvQ0Cun4VhCA5sMqG4DGoMkTZ4EwHk8WKMJDo-rWM6FSZCy2pG6Y0hlIq-zKYwE.t3yS-t_2H_CMARpA?startTime=1648881942000 (Passcode: ex^zh95U)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Lesly Serrano]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
